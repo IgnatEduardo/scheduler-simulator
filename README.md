@@ -1,5 +1,5 @@
 
-A Scheduler Simulator made in C for a University Project. <br>
+##A Scheduler Simulator made in C for a University Project. 
 Team:
 <t>	Marian-Madalin Neagu 
     	Cristian Soare 
